@@ -1,0 +1,11 @@
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\bin\Debug\net9.0\SchoolManagement.Domain.deps.json
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\bin\Debug\net9.0\SchoolManagement.Domain.dll
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\bin\Debug\net9.0\SchoolManagement.Domain.pdb
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\obj\Debug\net9.0\SchoolManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\obj\Debug\net9.0\SchoolManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\obj\Debug\net9.0\SchoolManagement.Domain.AssemblyInfo.cs
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\obj\Debug\net9.0\SchoolManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\obj\Debug\net9.0\SchoolManagement.Domain.dll
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\obj\Debug\net9.0\refint\SchoolManagement.Domain.dll
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\obj\Debug\net9.0\SchoolManagement.Domain.pdb
+C:\Users\Fk\Documents\Netrim Processo\SchoolManagement.Domain\obj\Debug\net9.0\ref\SchoolManagement.Domain.dll

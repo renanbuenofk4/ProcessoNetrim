@@ -1,0 +1,51 @@
+# Build
+bin/
+obj/
+out/
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ASP.NET Secrets
+secrets.json
+
+# Entity Framework
+Migrations/
+
+# Docker
+*.db
+*.bak
+docker-compose.override.yml
+
+# VS Code
+.vscode/
+
+# Test results
+TestResults/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Environment configs
+.env
+.env.*
+appsettings.Development.json
+appsettings.Local.json
+
+# Others
+*.swp

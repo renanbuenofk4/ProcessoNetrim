@@ -1,0 +1,661 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fk\\Documents\\Netrim Processo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|solutionrelative:schoolmanagement.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|solutionrelative:schoolmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|solutionrelative:schoolmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|solutionrelative:schoolmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.api\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|solutionrelative:schoolmanagement.api\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\interfaces\\iservices\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\interfaces\\iservices\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.domain\\entities\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|solutionrelative:schoolmanagement.domain\\entities\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE65E94B-C602-4723-80AB-3273C62637BD}|SchoolManagement.Tests\\SchoolManagement.Tests.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.tests\\schoolmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE65E94B-C602-4723-80AB-3273C62637BD}|SchoolManagement.Tests\\SchoolManagement.Tests.csproj|solutionrelative:schoolmanagement.tests\\schoolmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.infrastructure\\schoolmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|solutionrelative:schoolmanagement.infrastructure\\schoolmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.domain\\schoolmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|solutionrelative:schoolmanagement.domain\\schoolmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\schoolmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\schoolmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.api\\schoolmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|solutionrelative:schoolmanagement.api\\schoolmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.infrastructure\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|solutionrelative:schoolmanagement.infrastructure\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\queries\\pessoaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\queries\\pessoaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\interfaces\\irespository\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\interfaces\\irespository\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.infrastructure\\mappings\\turmamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|solutionrelative:schoolmanagement.infrastructure\\mappings\\turmamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.domain\\entities\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|solutionrelative:schoolmanagement.domain\\entities\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.infrastructure\\repositories\\turmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|solutionrelative:schoolmanagement.infrastructure\\repositories\\turmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\interfaces\\irespository\\iturmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\interfaces\\irespository\\iturmarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\services\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\interfaces\\iservices\\iturmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\interfaces\\iservices\\iturmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.api\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|solutionrelative:schoolmanagement.api\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.api\\controllers\\inscricaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|solutionrelative:schoolmanagement.api\\controllers\\inscricaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.api\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA0ADF6-835C-42D9-BEB0-A0E3B58A65E9}|SchoolManagement.API\\SchoolManagement.API.csproj|solutionrelative:schoolmanagement.api\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.domain\\entities\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|solutionrelative:schoolmanagement.domain\\entities\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6D02DF-579D-49C4-A43E-8BB88F512E3F}|SchoolManagement.Domain\\SchoolManagement.Domain.csproj|solutionrelative:schoolmanagement.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\interfaces\\irespository\\iinscricaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\interfaces\\irespository\\iinscricaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\interfaces\\iservices\\iescolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\interfaces\\iservices\\iescolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.infrastructure\\repositories\\inscricoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|solutionrelative:schoolmanagement.infrastructure\\repositories\\inscricoesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\services\\inscricaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\services\\inscricaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\interfaces\\iservices\\iinscricaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\interfaces\\iservices\\iinscricaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\queries\\inscricaoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\queries\\inscricaoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\queries\\escolaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\queries\\escolaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\queries\\turmaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\queries\\turmaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\queries\\pagedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\queries\\pagedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.application\\services\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7014813E-E7D2-4C2C-85BF-3196A95492E5}|SchoolManagement.Application\\SchoolManagement.Application.csproj|solutionrelative:schoolmanagement.application\\services\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|solutionrelative:schoolmanagement.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|c:\\users\\fk\\documents\\netrim processo\\schoolmanagement.infrastructure\\migrations\\20250508194526_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A54740-74B2-4255-A05F-2D7992BE1864}|SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj|solutionrelative:schoolmanagement.infrastructure\\migrations\\20250508194526_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.API\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "SchoolManagement.API\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:00:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolManagement.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolManagement.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T19:51:38.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\appsettings.json",
+              "RelativeToolTip": "SchoolManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T19:19:49.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Program.cs",
+              "RelativeToolTip": "SchoolManagement.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:15:36.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Dockerfile",
+              "RelativeDocumentMoniker": "SchoolManagement.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Dockerfile",
+              "RelativeToolTip": "SchoolManagement.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-09T04:47:35.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IServices\\IPessoaService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Interfaces\\IServices\\IPessoaService.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IServices\\IPessoaService.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Interfaces\\IServices\\IPessoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:09:08.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inscricao.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\Entities\\Inscricao.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Domain\\Entities\\Inscricao.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\Entities\\Inscricao.cs",
+              "RelativeToolTip": "SchoolManagement.Domain\\Entities\\Inscricao.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:07:15.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SchoolManagement.Tests",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Tests\\SchoolManagement.Tests.csproj",
+              "RelativeDocumentMoniker": "SchoolManagement.Tests\\SchoolManagement.Tests.csproj",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Tests\\SchoolManagement.Tests.csproj",
+              "RelativeToolTip": "SchoolManagement.Tests\\SchoolManagement.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T05:07:13.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolManagement.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
+              "RelativeToolTip": "SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T05:07:07.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchoolManagement.Domain",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
+              "RelativeToolTip": "SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T05:07:03.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SchoolManagement.Application",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\SchoolManagement.Application.csproj",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\SchoolManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\SchoolManagement.Application.csproj",
+              "RelativeToolTip": "SchoolManagement.Application\\SchoolManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T05:06:57.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolManagement.API",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\SchoolManagement.API.csproj",
+              "RelativeDocumentMoniker": "SchoolManagement.API\\SchoolManagement.API.csproj",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\SchoolManagement.API.csproj",
+              "RelativeToolTip": "SchoolManagement.API\\SchoolManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T05:06:46.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IRespository\\IPessoaRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Interfaces\\IRespository\\IPessoaRepository.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IRespository\\IPessoaRepository.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Interfaces\\IRespository\\IPessoaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:59:10.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Services\\PessoaService.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Services\\PessoaService.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Services\\PessoaService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:07:43.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PessoaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\PessoaQuery.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Queries\\PessoaQuery.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\PessoaQuery.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Queries\\PessoaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:26:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "RelativeToolTip": "SchoolManagement.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:05:07.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TurmaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Mappings\\TurmaMap.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Infrastructure\\Mappings\\TurmaMap.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Mappings\\TurmaMap.cs",
+              "RelativeToolTip": "SchoolManagement.Infrastructure\\Mappings\\TurmaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:54:59.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\Entities\\Turma.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Domain\\Entities\\Turma.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\Entities\\Turma.cs",
+              "RelativeToolTip": "SchoolManagement.Domain\\Entities\\Turma.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:07:04.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TurmaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Repositories\\TurmaRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Infrastructure\\Repositories\\TurmaRepository.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Repositories\\TurmaRepository.cs",
+              "RelativeToolTip": "SchoolManagement.Infrastructure\\Repositories\\TurmaRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:17:00.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITurmaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IRespository\\ITurmaRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Interfaces\\IRespository\\ITurmaRepository.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IRespository\\ITurmaRepository.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Interfaces\\IRespository\\ITurmaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:16:31.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TurmaService.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Services\\TurmaService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Services\\TurmaService.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Services\\TurmaService.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Services\\TurmaService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwDIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:17:28.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InscricaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Controllers\\InscricaoController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.API\\Controllers\\InscricaoController.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Controllers\\InscricaoController.cs",
+              "RelativeToolTip": "SchoolManagement.API\\Controllers\\InscricaoController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:01:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TurmaController.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Controllers\\TurmaController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.API\\Controllers\\TurmaController.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Controllers\\TurmaController.cs",
+              "RelativeToolTip": "SchoolManagement.API\\Controllers\\TurmaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:01:09.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITurmaService.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IServices\\ITurmaService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Interfaces\\IServices\\ITurmaService.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IServices\\ITurmaService.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Interfaces\\IServices\\ITurmaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:19:25.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EscolaController.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Controllers\\EscolaController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.API\\Controllers\\EscolaController.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.API\\Controllers\\EscolaController.cs",
+              "RelativeToolTip": "SchoolManagement.API\\Controllers\\EscolaController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:01:01.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\Entities\\Escola.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Domain\\Entities\\Escola.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\Entities\\Escola.cs",
+              "RelativeToolTip": "SchoolManagement.Domain\\Entities\\Escola.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:06:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Domain\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Domain\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "SchoolManagement.Domain\\Entities\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:04:44.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IInscricaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IRespository\\IInscricaoRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Interfaces\\IRespository\\IInscricaoRepository.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IRespository\\IInscricaoRepository.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Interfaces\\IRespository\\IInscricaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:04:04.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InscricaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Services\\InscricaoService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Services\\InscricaoService.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Services\\InscricaoService.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Services\\InscricaoService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:28:36.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IInscricaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IServices\\IInscricaoService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Interfaces\\IServices\\IInscricaoService.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IServices\\IInscricaoService.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Interfaces\\IServices\\IInscricaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:17:01.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InscricoesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Repositories\\InscricoesRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Infrastructure\\Repositories\\InscricoesRepository.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Repositories\\InscricoesRepository.cs",
+              "RelativeToolTip": "SchoolManagement.Infrastructure\\Repositories\\InscricoesRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:05:57.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEscolaService.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IServices\\IEscolaService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Interfaces\\IServices\\IEscolaService.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Interfaces\\IServices\\IEscolaService.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Interfaces\\IServices\\IEscolaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:20:26.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InscricaoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\InscricaoQuery.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Queries\\InscricaoQuery.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\InscricaoQuery.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Queries\\InscricaoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:16:04.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EscolaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\EscolaQuery.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Queries\\EscolaQuery.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\EscolaQuery.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Queries\\EscolaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:25:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TurmaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\TurmaQuery.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Queries\\TurmaQuery.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\TurmaQuery.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Queries\\TurmaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:25:48.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PagedQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\PagedQuery.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Queries\\PagedQuery.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Queries\\PagedQuery.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Queries\\PagedQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:15:16.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EscolaService.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Services\\EscolaService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Application\\Services\\EscolaService.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Application\\Services\\EscolaService.cs",
+              "RelativeToolTip": "SchoolManagement.Application\\Services\\EscolaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:19:47.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "SchoolManagement.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:03:05.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250508194526_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Migrations\\20250508194526_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Infrastructure\\Migrations\\20250508194526_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Fk\\Documents\\Netrim Processo\\SchoolManagement.Infrastructure\\Migrations\\20250508194526_InitialCreate.cs",
+              "RelativeToolTip": "SchoolManagement.Infrastructure\\Migrations\\20250508194526_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:45:32.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
